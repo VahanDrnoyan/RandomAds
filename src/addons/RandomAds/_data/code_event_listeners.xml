@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<code_event_listeners>
+    <listener event_id="app_pub_start_end" execute_order="10" callback_class="RandomAds\Listener" callback_method="rebuildAds" active="1"  description="Rebuild Ads"/>
+</code_event_listeners>
